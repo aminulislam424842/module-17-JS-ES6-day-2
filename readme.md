@@ -619,33 +619,6 @@ This task demonstrates how JavaScript array methods can be combined to solve rea
 
 ---
 
-# ▶️ How to Run
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/aminulislam424842/module-17-js-es6-day-2.git
-```
-
-## 2. Navigate to the Project
-
-```bash
-cd module-17-js-es6-day-2
-```
-
-## 3. Run Any JavaScript File
-
-```bash
-node 17-01-data-type-checker.js
-```
-
-You can replace the filename with any task file.
-
-Example:
-
-```bash
-node 17-30-smart-student-result.js
-```
 
 ---
 
